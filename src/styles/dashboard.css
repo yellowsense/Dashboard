@@ -1,0 +1,46 @@
+.containerMain {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid white;
+    margin: 10px;
+    width: 380px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.text {
+    font-size: 36px;
+    font-weight: '600';
+    color: yellow;
+}
+
+.textTitle {
+    font-size: 25px;
+    font-weight: '700';
+    color: antiquewhite;
+}
+
+.recentMain {
+    padding: 20px;
+}
+
+.headingText {
+    font-size: 30px;
+    font-weight: '900';
+    color: rgb(243, 185, 14);
+}
+
+.barChartContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
